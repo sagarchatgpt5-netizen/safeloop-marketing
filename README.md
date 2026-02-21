@@ -7,7 +7,7 @@ Static, SEO-optimized site for **Safe Loop** (child safety ecosystem for schools
 ### Option 1: Netlify (easiest)
 1. Sign up at [netlify.com](https://netlify.com).
 2. Drag and drop the **safeloop-website** folder onto the Netlify deploy area, or connect your Git repo and set publish directory to `safeloop-website` (or root if the repo is only this site).
-3. Your site is live. Point your domain (e.g. safeloop.com) in Netlify → Domain settings.
+3. Your site is live. Point your domain (e.g. safeloop.tech) in Netlify → Domain settings.
 
 ### Option 2: Vercel
 1. Sign up at [vercel.com](https://vercel.com).
@@ -32,7 +32,7 @@ Upload the contents of **safeloop-website** (all files) to any host that serves 
 - Semantic HTML (header, main, section, nav, footer)
 - Clear H1/H2 structure and internal links
 
-**After you have a domain:** Replace `https://safeloop.com/` in the canonical and og:url (and add a real og-image.png if you want). Update phone, email, and website in the footer and CTA.
+**After you have a domain:** Replace the canonical and og:url with your domain (e.g. https://safeloop.tech/). Add a real og-image.png if you want. Update phone and email in the footer and CTA.
 
 ## Run locally
 
